@@ -1,0 +1,238 @@
+#container{
+    background-color: blueviolet;
+    border-radius: 20px;
+    padding: 50px;
+
+}
+#website{
+    background-color: pink;
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 70%;
+   padding-top: 20px;
+   margin-left: 10%;
+   margin-right: 10%;
+
+
+}
+.topnav{
+    display: flex;
+    justify-content: space-around;
+}
+.sign-up{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid black;
+    width: 15%;
+    text-align: center;
+}
+.search1{
+    
+        background-color: wheat;
+        color: black;
+        border-radius: 15px;
+        border: 1px solid black;
+        padding: 10px;
+    
+}
+.study-text{
+    font-size: 20px;
+}
+.search2{
+    background-color: wheat;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.landing-page{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.about-us{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 16px;
+    padding-top: 50px;
+}
+.info{
+    font-size: 10px;
+}
+.photo{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+}
+ 
+@media only screen and (max-width: 600px) {
+
+    #container{
+        background-color: blueviolet;
+        border-radius: 20px;
+        padding: 50px;
+    
+    }
+    #website{
+        background-color: pink;
+        border-radius: 20px;
+        border: 2px solid black;
+        width: 70%;
+       padding-top: 20px;
+       margin-left: 10%;
+       margin-right: 10%;
+    
+    
+    }
+    .topnav{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .sign-up{
+        background-color: black;
+        color: white;
+        border-radius: 25px;
+        border: 1px solid black;
+        width: 15%;
+        text-align: center;
+    }
+    .search1{
+        
+            background-color: wheat;
+            color: black;
+            border-radius: 15px;
+            border: 1px solid black;
+            padding: 10px;
+        
+    }
+    .study-text{
+        font-size: 20px;
+    }
+    .search2{
+        background-color: wheat;
+        color: black;
+        border-radius: 10px;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .landing-page{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .about-us{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: white;
+        border-radius: 16px;
+        padding-top: 50px;
+    }
+    .info{
+        font-size: 10px;
+    }
+    .photo{
+        width: 350px;
+        height: 350px;
+        border-radius: 20px;
+    }
+    .btn{
+        width: 20px;
+        height: 20px;
+    }
+
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+    #container{
+        background-color: blueviolet;
+        border-radius: 20px;
+        padding: 50px;
+    
+    }
+    #website{
+        background-color: pink;
+        border-radius: 20px;
+        border: 2px solid black;
+        width: 70%;
+       padding-top: 20px;
+       margin-left: 10%;
+       margin-right: 10%;
+    
+    
+    }
+    .topnav{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .sign-up{
+        background-color: black;
+        color: white;
+        border-radius: 25px;
+        border: 1px solid black;
+        width: 15%;
+        text-align: center;
+    }
+    .search1{
+        
+            background-color: wheat;
+            color: black;
+            border-radius: 15px;
+            border: 1px solid black;
+            padding: 10px;
+        
+    }
+    .study-text{
+        font-size: 20px;
+    }
+    .search2{
+        background-color: wheat;
+        color: black;
+        border-radius: 10px;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    .landing-page{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .about-us{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: white;
+        border-radius: 16px;
+        padding-top: 50px;
+    }
+    .info{
+        font-size: 10px;
+    }
+    .photo{
+        width: 350px;
+        height: 350px;
+        border-radius: 20px;
+    }
+    .btn{
+        width: 20px;
+        height: 20px;
+    }
+
+    
+}
+
